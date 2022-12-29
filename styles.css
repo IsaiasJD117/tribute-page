@@ -1,0 +1,38 @@
+body{
+    background-color: #a732fb;
+    padding: 40px 30px;
+  }
+  h1{
+    text-align: center;
+    color: #da0178;
+    font-family: Arial;
+    font-size: 50px;
+    font-weight: 900;
+  }
+  h2{
+    text-align: center;
+  }
+  #image{
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+  #img-caption{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+  }
+  #img-div{
+    background-color: #8e6fb1;
+    padding-top: 54.5px;
+    padding-bottom: 7px;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  #tribute-info{
+    color: white;
+  }
+  strong{
+    color: #e00043;
+  }
